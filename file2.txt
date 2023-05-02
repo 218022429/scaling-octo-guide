@@ -1,2 +1,0 @@
-"this is file 2'nd text"
-"this is my second sentence in my 2nd file"
